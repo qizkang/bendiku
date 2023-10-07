@@ -1,0 +1,11531 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>
+Schematic Library Report
+</title>
+</head>
+<body bgcolor="#FFFFFF">
+<font face="Arial" size="2">
+<h1>
+Schematic Library Report
+</h1>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library File Name
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+D:\gongcheng\ku\PCB_Library\adku\bendiku\dianzu.SchLib
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library File Date/Time
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2023年10月7日 8:34:52
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library File Size
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+90624
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Components
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+14
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Component List
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+N沟道场效应管, P沟道场效应管, Type-B 端口, 电压基准芯片, 共模滤波电感, 螺钉式接线端子, 瞬态抑制二极管, 位移缓存器, 肖基特二极管, 栅栏式接线端子6.35-2p, 栅栏式接线端子-7.62-2P, 栅栏式接线端子-8.5-3P, 栅栏式接线端子-9.5-8P, 自锁按键开关
+</font>
+</td>
+</tr>
+</table>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzE9B7.wmf" width="246" height="256">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+N沟道场效应管
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+N沟道场效应管 漏源电压(Vdss)：20V 连续漏极电流(Id)：6.5A 功率(Pd)：1.4W 22mΩ
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Kind
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Aliases
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Component has no aliases
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Designator
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Q??
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Parameters
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+20
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pins
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+3
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Models
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Parameters
+</h5>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Name
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Value
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Type
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Visible
+</b>
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+=Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Symbol
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+AO3416A
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Device
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+AO3416A
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC Part Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+N沟道 20V 6.5A
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C347499
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+UMW(友台半导体)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+AO3416A
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Footprint
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SOT-23(TO-236)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+JLCPCB Part Class
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Extended Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Datasheet
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+https://atta.szlcsc.com/upload/public/pdf/source/20220920/1BC694883941CD8D53EC6CEF7FAAF984.pdf
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Add into BOM
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Convert to PCB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Type
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+N沟道
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Drain Source Voltage (Vdss)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+20V
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Continuous Drain Current (Id)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+6.5A
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Power Dissipation (Pd)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1.4W
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Drain Source On Resistance (RDS(on)@Vgs,Id)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+22mΩ@4.5V,6.5A
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Gate Threshold Voltage (Vgs(th)@Id)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1.1V@250uA
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Comment
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+AO3416A
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Models
+</h5>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzEA07.wmf" width="256" height="211">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Footprint
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+0mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+140.62mil x 126.174mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+3
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+20
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+&nbsp;
+<p>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+PCB3D
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzEDB1.wmf" width="199" height="256">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+P沟道场效应管
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+漏源电压(Vdss)：60V 连续漏极电流(Id)：53A 功率(Pd)：104.2W 导通电阻(RDS(on)@Vgs,Id)：19mΩ@10V,30A
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Kind
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Aliases
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Component has no aliases
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Designator
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Q??
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Parameters
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+20
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pins
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+3
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Models
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Parameters
+</h5>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Name
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Value
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Type
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Visible
+</b>
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+=Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Symbol
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SPP80P06PH
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Device
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SPP80P06PH-VB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC Part Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+P沟道 60V 53A
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C878809
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+VBsemi(微碧)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SPP80P06PH-VB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Footprint
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+TO-220AB-3
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+JLCPCB Part Class
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Extended Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Datasheet
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+https://atta.szlcsc.com/upload/public/pdf/source/20200929/C878809_766C4693FF0DA3327C10E95104D944AE.pdf
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Add into BOM
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Convert to PCB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Type
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+P沟道
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Drain Source Voltage (Vdss)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+60V
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Continuous Drain Current (Id)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+53A
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Power Dissipation (Pd)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+104.2W
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Drain Source On Resistance (RDS(on)@Vgs,Id)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+19mΩ@10V,30A
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Gate Threshold Voltage (Vgs(th)@Id)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+3V@250uA
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Comment
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SPP80P06PH-VB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Models
+</h5>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzEDF1.wmf" width="256" height="150">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+TO-220AB-3_L10.3-W5.0-P2.54-L
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Footprint
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+0mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+427.744mil x 250.411mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+3
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+24
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+&nbsp;
+<p>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+PCB3D
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzEE01.wmf" width="243" height="256">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+Type-B 端口
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Type-B 端口 USB 2.0 母座  4P  直插 额定电流 - 电源：1.5A
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Kind
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Aliases
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Component has no aliases
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Designator
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+USB??
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Parameters
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+23
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pins
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+6
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Models
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Parameters
+</h5>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Name
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Value
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Type
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Visible
+</b>
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+=Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Symbol
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+USB-B12-BRW
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Device
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+USB-B12-BRW
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC Part Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Type-B 母座 直插
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C720550
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+XUNPU(讯普)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+USB-B12-BRW
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Footprint
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+插件
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+JLCPCB Part Class
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Extended Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Datasheet
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Add into BOM
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Convert to PCB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Connector Type
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Type-B
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+USB 2.0
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Gender
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+母座
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Number of Contacts
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+4
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Number of Ports
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Mounting Style
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+直插
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Current Rating - Power (Max)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1.5A
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Operating Temperature Range
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+-20℃~+70℃
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Welding Temperature (Max)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+260℃
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Comment
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+USB-B12-BRW
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Models
+</h5>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzEE41.wmf" width="256" height="174">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+USB-B-TH_USB-B12-BRW
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Footprint
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+0mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+619.815mil x 450mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+6
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+37
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzEE51.wmf" width="240" height="256">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+位移缓存器
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+位移缓存器  三态输出 串行至串行或并行移位寄存器2V~6V 型号中的数字
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Kind
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Aliases
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Component has no aliases
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Designator
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+U??
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Parameters
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+20
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pins
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+16
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Models
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Parameters
+</h5>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Name
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Value
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Type
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Visible
+</b>
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+=Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Symbol
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+74HC595D,118
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Device
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+74HC595D,118
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC Part Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+三态输出 串行至串行或并行移位寄存器
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C5947
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Nexperia(安世)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+74HC595D,118
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Footprint
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SOP-16
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+JLCPCB Part Class
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Basic Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Datasheet
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+https://atta.szlcsc.com/upload/public/pdf/source/20140108/1457706668762.pdf
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Add into BOM
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Convert to PCB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Series
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+74HC
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Number of Bits per Element
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+8
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Output Type
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+三态
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Function
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+串行至并行或串行
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supply Voltage
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2V~6V
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Operating Temperature
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+40℃~+125℃
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Comment
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+74HC595D,118
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Models
+</h5>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzEE91.wmf" width="256" height="204">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Footprint
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+0mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+417.697mil x 304.041mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+16
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+60
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+&nbsp;
+<p>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+PCB3D
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzEEC1.wmf" width="256" height="203">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+共模滤波电感
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+UU9.8-10mH
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Kind
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Aliases
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Component has no aliases
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Designator
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+L??
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Parameters
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+23
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pins
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+4
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Models
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Parameters
+</h5>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Name
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Value
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Type
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Visible
+</b>
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+=Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Symbol
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+UU9.8-10MH
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Device
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+UU9.8-10mH
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC Part Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+两路 插件共模滤波器
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C148474
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+FH(风华)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+UU9.8-10mH
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Footprint
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+插件
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+JLCPCB Part Class
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Extended Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Datasheet
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+https://atta.szlcsc.com/upload/public/pdf/source/20210713/C148474_656501625637B4BA0D3972AB204D3908.pdf
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Add into BOM
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Convert to PCB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Number of Lines
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Impedance @ Frequency
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+-
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Inductance @ Frequency
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+10mH@1kHz
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Current Rating
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+-
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+DC Resistance (DCR)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+800mΩ
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Voltage Rating - DC
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+-
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Operating Temperature
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+-
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Withstanding Voltage
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1kV
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Voltage Rating
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+-
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Comment
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+UU9.8-10mH
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Models
+</h5>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzEEF1.wmf" width="180" height="256">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+FILTER-TH_4P-L17.0-W12.0-P7.00-D0.6-S8.00
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Footprint
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+0mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+482.44mil x 679.29mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+4
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+60
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzEF11.wmf" width="238" height="256">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+栅栏式接线端子6.35-2p
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+栅栏式接线端子 间距：6.35mm 结构：1x2P  直针
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Kind
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Aliases
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Component has no aliases
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Designator
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+U??
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Parameters
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+27
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pins
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Models
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Parameters
+</h5>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Name
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Value
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Type
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Visible
+</b>
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+=Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Symbol
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+JL635-63502B01
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Device
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+JL635-63502B01
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC Part Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+6.35mm 1x2P 每排P数:2 排数:1 直针 边脚
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C409150
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+JILN(锦凌)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+JL635-63502B01
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Footprint
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+插件,P=6.35mm
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+JLCPCB Part Class
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Extended Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Datasheet
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+https://atta.szlcsc.com/upload/public/pdf/source/20190822/C409150_B282659771C8BCFCDCE5970BAD47B82D.pdf
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Add into BOM
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Convert to PCB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Barrier Type
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+三面
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Pitch
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+6.35mm
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Structure
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1x2P
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Number of PINs Per Row
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Number of Rows
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Mounting Style
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+直针
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Pin Location
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+边脚
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Current Rating (Max)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+20A
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Voltage Rating (Max)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+300V
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Wire Gauge - AWG
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+16~22
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Wire Gauge - mm2
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+-
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Operating Temperature Range
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+-40℃~+105℃
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Color
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+黑色
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Comment
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+JL635-63502B01
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Models
+</h5>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzEF41.wmf" width="224" height="256">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+CONN-TH_JL635-63502B01
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Footprint
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+0mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+549.37mil x 626.432mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+48
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+&nbsp;
+<p>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+PCB3D
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzEF61.wmf" width="238" height="256">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+栅栏式接线端子-7.62-2P
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+栅栏式接线端子  间距：7.62mm 结构：1x2P
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Kind
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Aliases
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Component has no aliases
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Designator
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+U??
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Parameters
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+26
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pins
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Models
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Parameters
+</h5>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Name
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Value
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Type
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Visible
+</b>
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+=Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Symbol
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+KF7.62-2P
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Device
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+KF7.62-2P
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC Part Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+7.62mm 每排P数:2 排数:1 直针 边脚 黑色
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C707824
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+KEFA(科发)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+KF7.62-2P
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Footprint
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+直插,P=7.62mm
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+JLCPCB Part Class
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Extended Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Datasheet
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+https://atta.szlcsc.com/upload/public/pdf/source/20200911/C707824_085D20F539EB43FE255F4A82729CD447.pdf
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Add into BOM
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Convert to PCB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Barrier Type
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+两面
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Pitch
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+7.62mm
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Number of PINs Per Row
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Number of Rows
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Mounting Style
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+直针
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Pin Location
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+边脚
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Current Rating (Max)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+24A
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Voltage Rating (Max)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+450V
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Wire Gauge - AWG
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+12~22
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Wire Gauge - mm?
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2.5
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Operating Temperature Range
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+-40℃~+105℃
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Color
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+黑色
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Comment
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+KF7.62-2P
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Models
+</h5>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzEF91.wmf" width="256" height="242">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+CONN-TH_KF7.62-2P
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Footprint
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+10mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+657.244mil x 621.429mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+27
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzEFB1.wmf" width="191" height="256">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+栅栏式接线端子-8.5-3P
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+栅栏式接线端子  间距：8.5mm 1x3P  直针 引脚位置：边脚 额定电流：24A 额定电压：450V 线规 - AWG：12~22 线规 - mm2：2.5
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Kind
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Aliases
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Component has no aliases
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Designator
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+U??
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Parameters
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+27
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pins
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+3
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Models
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Parameters
+</h5>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Name
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Value
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Type
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Visible
+</b>
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+=Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Symbol
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+KF8500-8.5-3P
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Device
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+KF8500-8.5-3P
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC Part Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+8.5mm 1x3P 每排P数:3 排数:1 直针 边脚
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C707834
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+KEFA(科发)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+KF8500-8.5-3P
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Footprint
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+插件,P=8.5mm
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+JLCPCB Part Class
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Extended Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Datasheet
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+https://atta.szlcsc.com/upload/public/pdf/source/20230331/38F39BA915725C9159B9A169281B3E59.pdf
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Add into BOM
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Convert to PCB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Barrier Type
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+两面
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Pitch
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+8.5mm
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Structure
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1x3P
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Number of PINs Per Row
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+3
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Number of Rows
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Mounting Style
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+直针
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Pin Location
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+边脚
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Current Rating (Max)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+24A
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Voltage Rating (Max)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+450V
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Wire Gauge - AWG
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+12~22
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Wire Gauge - mm2
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2.5
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Operating Temperature Range
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+-40℃~+105℃
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Color
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+黑色
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Comment
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+KF8500-8.5-3P
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Models
+</h5>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzEFE1.wmf" width="256" height="116">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+CONN-TH_KF8500-8.5-3P
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Footprint
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+0mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1076.354mil x 485.803mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+3
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+15
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+&nbsp;
+<p>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+PCB3D
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzF001.wmf" width="201" height="256">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+栅栏式接线端子-9.5-8P
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+带盖板栅栏式接线端子 间距：9.5mm 1x8P 直针 边脚 额定电流：32A 额定电压：750V 线规 - AWG：12~22 线规 - mm2：4 工作温度范围：-40℃~+105℃ 颜色：黑色
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Kind
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Aliases
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Component has no aliases
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Designator
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+U??
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Parameters
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+27
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pins
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+8
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Models
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Parameters
+</h5>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Name
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Value
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Type
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Visible
+</b>
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+=Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Symbol
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+HB9500M-9.5-8P
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Device
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+HB9500M-9.5-8P
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC Part Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+9.5mm 1x8P 每排P数:8 排数:1 直针 边脚
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C315245
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+KANGNEX(康奈克斯电气)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+HB9500M-9.5-8P
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Footprint
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+插件,P=9.5mm
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+JLCPCB Part Class
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Extended Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Datasheet
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+https://atta.szlcsc.com/upload/public/pdf/source/20191225/C315245_3594694ED82A6269F262C04DBCBCBE80.pdf
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Add into BOM
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Convert to PCB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Barrier Type
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+带盖板
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Pitch
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+9.5mm
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Structure
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1x8P
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Number of PINs Per Row
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+8
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Number of Rows
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Mounting Style
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+直针
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Pin Location
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+边脚
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Current Rating (Max)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+32A
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Voltage Rating (Max)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+750V
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Wire Gauge - AWG
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+12~22
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Wire Gauge - mm2
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+4
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Operating Temperature Range
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+-40℃~+105℃
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Color
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+黑色
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Comment
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+HB9500M-9.5-8P
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+True
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Models
+</h5>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzF041.wmf" width="256" height="54">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+CONN-TH_HB9500M-9.5-8P
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Footprint
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+0mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+3066.752mil x 643.301mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+8
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+74
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+&nbsp;
+<p>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+PCB3D
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzF071.wmf" width="256" height="52">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+电压基准芯片
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+电压基准芯片  可编程 输入：4V~36V 输出：2.5V；3V 输出电流：10mA 精度：±0.2%；±0.17%
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Kind
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Aliases
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Component has no aliases
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Designator
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+U??
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Parameters
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+24
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pins
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+8
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Models
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Parameters
+</h5>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Name
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Value
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Type
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Visible
+</b>
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+=Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Symbol
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+AD780ARZ_C578527
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Device
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+AD780ARZ
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC Part Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+串联 并联 10mA
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C578527
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+ADI(亚德诺)/LINEAR(凌特)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+AD780ARZ
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Footprint
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SOIC-8
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+JLCPCB Part Class
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Extended Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Datasheet
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+https://atta.szlcsc.com/upload/public/pdf/source/20191127/C459887_A064405C3B9E940C4831E9513F2D439D.pdf
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Add into BOM
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Convert to PCB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Reference Type
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+串联；并联
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Output Type
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+可调
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Input Voltage
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+4V~36V
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Output Current
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+10mA
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Tolerance
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+±0.2%；±0.17%
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Temperature Coefficient
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+7ppm/℃
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supply Current
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1mA
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Noise - 1/10Hz to 10Hz
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+4uVp-p
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Noise - 10Hz to 10kHz
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+-
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Operating Temperature
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+-40℃~+85℃@(Ta)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Comment
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+AD780ARZ
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Models
+</h5>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzF0A0.wmf" width="168" height="256">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Footprint
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+0mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+218.662mil x 306.812mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+8
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+36
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+&nbsp;
+<p>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+PCB3D
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzF0C1.wmf" width="256" height="76">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+瞬态抑制二极管
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+瞬态抑制二极管 反向截止电压(Vrwm)：30V 击穿电压：33.3V 最大钳位电压：48.4V
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Kind
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Aliases
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Component has no aliases
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Designator
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+D??
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Parameters
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+15
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pins
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Models
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Parameters
+</h5>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Name
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Value
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Type
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Visible
+</b>
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+=Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Symbol
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SMBJ30CA_C726873
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Device
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SMBJ30CA_C726873
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC Part Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+双向
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C726873
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+TWGMC(台湾迪嘉)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SMBJ30CA
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Footprint
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SMB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+JLCPCB Part Class
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Extended Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Datasheet
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+https://atta.szlcsc.com/upload/public/pdf/source/20200901/C726811_07201DC3516E92FF13903A0BAE18F725.pdf
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Add into BOM
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Convert to PCB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Polarity
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+双向
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Comment
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SMBJ30CA_C726873
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Models
+</h5>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzF0F1.wmf" width="256" height="121">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+SMB_L4.6-W3.6-LS5.3-BI
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Footprint
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+0mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+292.65mil x 156mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+28
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+&nbsp;
+<p>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+PCB3D
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzF111.wmf" width="256" height="81">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+肖基特二极管
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+肖基特二极管  插件60V,5A,VF=0.7V
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Kind
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Aliases
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Component has no aliases
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Designator
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+D??
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Parameters
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+14
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pins
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Models
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Parameters
+</h5>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Name
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Value
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Type
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Visible
+</b>
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+=Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Symbol
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SR560
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Device
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SR560_C38272
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC Part Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SR560 编带
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C38272
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+MDD
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SR560
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Footprint
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+DO-201AD
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+JLCPCB Part Class
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Extended Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Datasheet
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+https://atta.szlcsc.com/upload/public/pdf/source/20190305/C38272_6BCF17FB190BC02A3BD88B78418667FF.pdf
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Add into BOM
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Convert to PCB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Comment
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SR560_C38272
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Models
+</h5>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzF141.wmf" width="256" height="77">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+DO-201AD_BD5.3-L8.4-P12.50-D1.4-FD
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Footprint
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+0mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+726.11mil x 230.472mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+23
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+&nbsp;
+<p>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+PCB3D
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzF151.wmf" width="256" height="238">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+自锁按键开关
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+自锁按键开关 30V 双刀双掷 直插 自锁 泡泡机开关
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Kind
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Aliases
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Component has no aliases
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Designator
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SW??
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Parameters
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+27
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pins
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+6
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Models
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Parameters
+</h5>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Name
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Value
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Type
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Visible
+</b>
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+=Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Symbol
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+5.8 ZSGT
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Device
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+5.8 ZSGT
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC Part Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+5.8*5.8有头/高头 带锁/自锁开关 泡泡机开关
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C2681587
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+SHOU HAN(首韩)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+5.8 ZSGT
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Footprint
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+插件
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+JLCPCB Part Class
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Extended Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Datasheet
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+https://atta.szlcsc.com/upload/public/pdf/source/20210107/C2681587_CDDDDA4A1C7AC9FEB01815B75893A6BA.pdf
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Add into BOM
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Convert to PCB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Contact Current
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+110mA
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Voltage Rating (DC)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+30V
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Insulation Resistance
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+100MΩ
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Circuit
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+双刀双掷
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Mounting Style
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+直插
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Self Lock / No Lock
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+自锁
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Actuator Style
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+方形按钮
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Actuator/Cap Color
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+白色
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+With Lamp
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+无
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Pin Style
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+PC引脚
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Operating Force
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+150gf@±50gf
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Operating Temperature
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+-10℃~+70℃
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Mechanical Life
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+100000
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Comment
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+5.8 ZSGT
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+True
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Models
+</h5>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzF191.wmf" width="237" height="256">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+SW-TH_5.8ZSGT
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Footprint
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+0mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+243.361mil x 245.17mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+6
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+31
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzF1A1.wmf" width="238" height="256">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+螺钉式接线端子
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1x2P 蓝色
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Kind
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Aliases
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Component has no aliases
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Designator
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+U??
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Parameters
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+24
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pins
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Models
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Parameters
+</h5>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Name
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Value
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Type
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Visible
+</b>
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+=Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Symbol
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+DB301V-5.0-2P
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Device
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+DB301V-5.0-2P-BU-S
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC Part Name
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+5mm 排数:1 每排P数:2 直针
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C395882
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+DIBO(地博电气)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+DB301V-5.0-2P-BU-S
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier Footprint
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+直插,P=5mm
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+JLCPCB Part Class
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Extended Part
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Datasheet
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+https://atta.szlcsc.com/upload/public/pdf/source/20190611/C395882_ED63B395F1E42B2C84D8982756FF4727.pdf
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Supplier
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+LCSC
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Add into BOM
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Convert to PCB
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+yes
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Pitch
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+5mm
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Number of Rows
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Number of PINs Per Row
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Mounting Style
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+直针
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Current Rating (Max)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+17.5A
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Voltage Rating (Max)
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+250V
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Wire Gauge - AWG
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+14~22
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Wire Gauge - mm?
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1.5
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Operating Temperature Range
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+-40℃~+120℃
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Color
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+蓝色
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Comment
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+DB301V-5.0-2P-BU-S
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Models
+</h5>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzF1D1.wmf" width="256" height="201">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+CONN-TH_2P-P5.00_L7.6-W10.0
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Footprint
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+0mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+480.531mil x 375.11mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+26
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+&nbsp;
+<p>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+PCB3D
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+</font>
+</body>
+</html>
